@@ -1,7 +1,9 @@
 [package]
 name = "rust-project-template"
 version = "0.1.0"
-authors = ["Cassandra Pearson <cnegrich@gmail.com>"]
-edition = "2021"
+authors = ["Cassandra Pearson (Pearsonify) <cnegrich@gmail.com>"]
+edition = "2024"
 
 [dependencies]
+
+[dev-dependencies]
